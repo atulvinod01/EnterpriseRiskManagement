@@ -6,6 +6,8 @@
 
 A comprehensive, AI-powered application designed to detect and manage insider threats and enterprise risks using advanced analytics.
 
+![Dashboard Screenshot](assets/dashboard_screenshot.png)
+
 ## Features
 
 *   **Bring Your Own Data (BYOD):** Seamlessly upload your own organization's activity logs (CSV) or generate synthetic data for demonstration and testing purposes.
