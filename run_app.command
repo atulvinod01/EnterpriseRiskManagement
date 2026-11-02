@@ -4,7 +4,7 @@
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd "$DIR"
 
-echo "Starting Insider Threat Analytics..."
+echo "Starting Risk Engine..."
 
 # Check if python3 is installed
 if ! command -v python3 &> /dev/null; then
